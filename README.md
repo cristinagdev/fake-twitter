@@ -17,9 +17,6 @@
 </p>
 
 
-## Url para ver el resultado
-<br/>
-Aquí pueder ver el proyecto: https://pigtter.herokuapp.com/
 
 <br/>
 
